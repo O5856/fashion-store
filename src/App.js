@@ -12,7 +12,7 @@ import {
 } from "react-router-dom";
 import About from "./About";
 import Home from "./Home"
-import Shop from "./Shop";
+
 import Contact from "./Contact"
 import "./App.css";
 
